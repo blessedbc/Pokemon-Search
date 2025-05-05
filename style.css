@@ -28,3 +28,12 @@ body {
   background-color: #0056b3;
 }
 
+.creature-info {
+  margin-top: 2rem;
+  padding: 1rem;
+  background-color: white;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  max-width: 300px;
+}
+
