@@ -14,3 +14,13 @@ body {
   margin-right: 0.5rem;
 }
 
+#search-button {
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
