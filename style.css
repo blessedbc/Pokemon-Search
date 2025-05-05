@@ -5,3 +5,12 @@ body {
   color: #333;
 }
 
+#search-input {
+  padding: 0.5rem;
+  width: 200px;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  margin-right: 0.5rem;
+}
+
