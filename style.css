@@ -42,3 +42,13 @@ body {
   font-size: 1rem;
 }
 
+#types div {
+  display: inline-block;
+  background-color: #eee;
+  color: #444;
+  padding: 0.3rem 0.6rem;
+  margin: 0.2rem;
+  border-radius: 4px;
+  font-weight: bold;
+  font-size: 0.9rem;
+}
